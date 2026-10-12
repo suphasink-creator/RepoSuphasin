@@ -1,1 +1,2 @@
 # RepoSuphasin
+Repository สำหรับศึกษาการใช้งาน GitHub ในวิชา Software Engineering
